@@ -1,0 +1,5 @@
+apache-airflow-providers-postgres
+apache-airflow-providers-amazon
+psycopg2-binary
+faker
+python-dotenv
